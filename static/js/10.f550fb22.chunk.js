@@ -1,0 +1,2 @@
+(this.webpackJsonpcookbiryani=this.webpackJsonpcookbiryani||[]).push([[10],{1474:function(n,i){},1496:function(n,i){},1499:function(n,i){},1503:function(n,i){},1512:function(n,i){},1514:function(n,i){}}]);
+//# sourceMappingURL=10.f550fb22.chunk.js.map
